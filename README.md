@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Movie%20Tutorial&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=React%20%2B%20Vite%20Movie%20Search%20%26%20Favorites%20App&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Movie%20Tutorial&amp;fontSize=60&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=React%20%2B%20Vite%20Movie%20Search%20%26%20Favorites%20App&amp;descAlignY=55&amp;descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🎬+Search.+Save.+Watch+Later.;⚛️+React+19+%2B+Vite+8;❤️+Favorites+Powered+by+Context+API)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=7C3AED&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;width=700&amp;height=100&amp;lines=🎬+Search.+Save.+Watch+Later.;⚛️+React+19+%2B+Vite+8;❤️+Favorites+Powered+by+Context+API)](https://git.io/typing-svg)
 
 ---
 
@@ -67,7 +67,7 @@ The project demonstrates core modern React fundamentals: functional components, 
 ## ⭐ Featured Project
 
 <details>
-<summary><strong>Movie Tutorial — React Movie Search & Favorites App</strong></summary>
+<summary><strong>Movie Tutorial — React Movie Search &amp; Favorites App</strong></summary>
 
 <br>
 
@@ -223,6 +223,6 @@ git push origin feature/movie-detail-page
 
 *"Every great story starts with someone hitting search."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" width="100%"/>
 
 </div>
